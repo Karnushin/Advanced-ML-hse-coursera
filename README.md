@@ -1,4 +1,4 @@
-# Advanced-ML-hse-coursera
+# Advanced Machine Learning Specialization (Coursera, HSE)
 
 [Link to Specialization](https://www.coursera.org/specializations/aml)
 
